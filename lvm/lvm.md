@@ -1,5 +1,7 @@
 # LVM guide
 
+tags: #lvm #linux
+
 ## Expand harddisk to include a new drive and exten
 
 ```console

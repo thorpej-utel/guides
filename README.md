@@ -1,5 +1,7 @@
 # Just guides and notes
 
+tags: #readme
+
 ## Guides
 
 - [[postgres]]
@@ -7,6 +9,7 @@
 - [[lvm]]
 - [[yum]]
 - [[zfs]]
+- [[dev-pc]]
 
 ## Improvements
 

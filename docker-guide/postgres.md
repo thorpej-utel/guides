@@ -1,5 +1,7 @@
 # Creating a Postgres Database and Loading a File using Docker
 
+tags: #docker #postgres
+
 ## Step 1: Run a Postgres Container
 
 Run a Postgres container with a specified name, environment variables, port mapping, and data volume.

@@ -1,5 +1,7 @@
 # My notes for ZFS
 
+tags: #zfs #linux
+
 using HP 00239
 
 ```console
