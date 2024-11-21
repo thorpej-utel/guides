@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+
+	},
+	"extensions": {
+		"recommendations": [
+			"foam.foam-vscode",
+			"yzhang.markdown-all-in-one",
+			
+		]
+	}
+}

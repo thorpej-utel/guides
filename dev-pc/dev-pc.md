@@ -2,6 +2,6 @@
 
 tags: #dev-pc
 
-- [[dev-fastlight]]
+- [[dev-java-18]]
 - [[dev-vb6]]
 - [[dev-dotnet 2002]]

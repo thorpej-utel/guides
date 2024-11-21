@@ -2,6 +2,8 @@
 
 tags: #readme
 
+These guides use VScode and foam
+
 ## Guides
 
 - [[postgres]]
